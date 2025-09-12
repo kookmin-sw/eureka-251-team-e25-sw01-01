@@ -41,13 +41,13 @@
   - 우리가 상상한 미래
   - 우리가 그리는 미래 그리고 나
 
-- 각오와 소감 나누기 ✔️  
-
+- 각오와 소감 나누기 ✔️
+  - 이현우: ***보안의 정점에 서겠다.***
 
 <!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
+<!--  <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
+<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/> -->
 
 ***
 
