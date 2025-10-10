@@ -108,8 +108,9 @@
 - 테블릿 팬: 제스쳐 기능을 활용해 사용자의 의도를 인식하고 다양한 기능들을 직접 접촉 없이 실행할 수 있음
   - https://www.samsung.com/us/support/answer/ANS10003221/
 
+## 25. 10. 10
 
-
+![image.jpg](https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-01/refs/heads/main/image0.jpg)
 
 ***
 
