@@ -116,6 +116,8 @@
 
 ![Image](https://github.com/user-attachments/assets/8785b517-7eb7-4fa6-9df6-d499f5e32617)
 
+https://www.figma.com/design/bfezhOamgZldDz4UBXDxNi/Untitled?node-id=0-1&p=f&t=h6bTDTMCr3qGpAgc-0
+
 
 ***
 
