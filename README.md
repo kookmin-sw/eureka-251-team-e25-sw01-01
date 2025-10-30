@@ -114,7 +114,7 @@
 
 ## 25. 10. 31
 
-![image.jpg](https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-01/refs/heads/main/Frame 1 (3).jpg)
+![Image](https://github.com/user-attachments/assets/8785b517-7eb7-4fa6-9df6-d499f5e32617)
 
 
 ***
