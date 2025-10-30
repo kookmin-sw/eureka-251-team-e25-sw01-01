@@ -112,6 +112,11 @@
 
 ![image.jpg](https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-01/refs/heads/main/image0.jpg)
 
+## 25. 10. 31
+
+![image.jpg](https://raw.githubusercontent.com/kookmin-sw/eureka-251-team-e25-sw01-01/refs/heads/main/Frame 1 (3).jpg)
+
+
 ***
 
 ## 5️⃣ 특별히 알아보고 싶은 것
