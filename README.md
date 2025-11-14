@@ -119,7 +119,8 @@
 https://www.figma.com/design/bfezhOamgZldDz4UBXDxNi/Untitled?node-id=0-1&p=f&t=h6bTDTMCr3qGpAgc-0
 
 ### 25.11.14 대학원 선배 만나기
- 
+
+![Image](https://github.com/kookmin-sw/eureka-251-team-e25-sw01-01/blob/main/%EB%8C%80%ED%95%99%EC%9B%90%20%EC%84%A0%EB%B0%B0.jpg)
 
 ***
 
