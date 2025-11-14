@@ -118,6 +118,8 @@
 
 https://www.figma.com/design/bfezhOamgZldDz4UBXDxNi/Untitled?node-id=0-1&p=f&t=h6bTDTMCr3qGpAgc-0
 
+## 25. 11. 14
+
 
 ***
 
