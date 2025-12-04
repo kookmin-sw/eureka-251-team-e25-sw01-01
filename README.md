@@ -1,6 +1,8 @@
 <!--[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_) !-->
 # Welcome to 01팀
 
+![Image](https://github.com/user-attachments/assets/8785b517-7eb7-4fa6-9df6-d499f5e32617)
+
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
